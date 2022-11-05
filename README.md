@@ -16,6 +16,6 @@ Here are some ideas to get you started:
  &hide=stars,commits,prs,issues,contribs
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdvr21&count_private=true&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdvr21&count_private=true&show_icons=true&theme=omni&hide=stars,issues)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdvr21)](https://github.com/anuraghazra/github-readme-stats)
