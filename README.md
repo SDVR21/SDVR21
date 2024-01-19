@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 |Date|Name|Type|Stack|Where|Role|
 |------|---|---|---|---|---|
 |2021.3 ~ 2023.12|[DarkWebCollector](https://github.com/SDVR21/TorCollector)|Darkweb Crawler|Python, Linux|Side Project|Programming|
-|2023.9 ~ 2023.12|[Flown](https://github.com/SSWU-OpenSourceSoftware-13/newFlown)|Web Page|Docker, Kubernetes, GCP|2023-2 Open Source Software Class|Back-end Programming  & DevOps|
+|2023.9 ~ 2023.12|[Flown](https://github.com/SSWU-OpenSourceSoftware-13/newFlown)|Web Page|Docker, Kubernetes, Jenkins, GCP|2023-2 Open Source Software Class|Back-end Programming  & DevOps|
 |2023.9 ~ 2023.10|[DarknetDetection](https://github.com/SSWU-OpenSourceSoftware-13/newFlown)|ML Project|Python, Keras, pandas, numpy, sklearn|2023 Mobisec|Data Processing & Model Programming|
 |2021.9 ~ 2021.12|[Sunshine](https://github.com/Databaseprogramming-Sunshine/Sunshine)|Web Page|JavaScript, Node.js, MySQL, Figma, GCP|2021-2 Database Programming Class|Design & Programming|
 
