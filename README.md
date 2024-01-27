@@ -14,8 +14,6 @@ Here are some ideas to get you started:
  &hide=stars,commits,prs,issues,contribs
 -->
 
-### 🌱 I’m currently learning ...
-
 ### 📄 Projects
 |Date|Name|Type|Stack|Where|Role|
 |------|---|---|---|---|---|
