@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 |2023.9 ~ 2023.10|[DarknetDetection](https://github.com/SDVR21/DarknetDetection)|ML Project|Python, Keras, pandas, numpy, sklearn|2023 Mobisec|Data Processing & Model Programming|
 |2021.9 ~ 2021.12|[Sunshine](https://github.com/Databaseprogramming-Sunshine/Sunshine)|Web Page|JavaScript, Node.js, MySQL, Figma, GCP|2021-2 Database Programming Class|Design & Programming|
 
+<br>
 ### ✨ Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdvr21&layout=compact&theme=omni)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdvr21&layout=compact&theme=omni)
