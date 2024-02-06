@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <br>
 ### ✨ Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdvr21&layout=compact&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdvr21&layout=compact&theme=omni)]
